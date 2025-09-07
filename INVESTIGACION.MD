@@ -17,7 +17,7 @@ Atributos
 ¿Qué es un atributo y para qué sirve? Da un ejemplo.
 
 Escribe tu respuesta aquí, incluyendo un ejemplo de código como <a href="https://google.com">Ir a Google</a> y explicando qué hace el atributo href.
-Un articulo se agrega dentro de una etiquera para proporcionar información adicional sobre ese elemento. El articulo href se usa para enlazar vinculos a un texto. <a hret="https://www.youtube.com/">Ingresa a youtube</a>
+Un articulo se agrega dentro de una etiquera para proporcionar información adicional sobre ese elemento. El articulo href se usa para enlazar vinculos a un texto. <a hret="https://www.youtube.com">Ingresa a youtube</a>
 
 2. El Poder de la Semántica
 HTML Semántico
